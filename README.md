@@ -30,8 +30,8 @@ Setup Instructions (Ubuntu)
 
 1. Clone the Repository
 
-              git clone https://github.com/premathasvibeeshan4/BasicNetworkSniffer_Python/tree/main
-              cd CodeAlpha_BasicNetworkSniffer
+              git clone https://github.com/premathasvibeeshan4/Py01-BasicNetworkSniffer.git
+              cd Py01-BasicNetworkSniffer
 
 2. Create Virtual Environment (recommended)
               sudo apt update
