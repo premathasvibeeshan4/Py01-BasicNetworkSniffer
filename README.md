@@ -1,7 +1,7 @@
-CodeAlpha – Basic Network Sniffer
+Task 01 - Basic Network Sniffer
 --------------------------------------------------------------------------------------------------------------------------------------
 
-This project is part of my CodeAlpha Cyber Security Internship (Task 1).
+This project is part of my Cyber Security Journey (Task 1).
 It is a Python-based network sniffer that captures and analyzes network traffic packets in real-time.
 
 The tool helps understand how data flows across the network by displaying details such as:
@@ -30,7 +30,7 @@ Setup Instructions (Ubuntu)
 
 1. Clone the Repository
 
-              git clone https://github.com/premathasvibeeshan4/CodeAlpha_BasicNetworkSniffer/tree/main
+              git clone https://github.com/premathasvibeeshan4/BasicNetworkSniffer_Python/tree/main
               cd CodeAlpha_BasicNetworkSniffer
 
 2. Create Virtual Environment (recommended)
